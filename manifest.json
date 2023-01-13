@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "JS Game",
+  "name": "A Game Created in Rreact Javascript",
   "icons": [],
   "start_url": ".",
   "display": "standalone",
