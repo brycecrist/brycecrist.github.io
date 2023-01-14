@@ -1,11 +1,16 @@
-import './App.css';
+import {Game} from './components/Game'
+import './App.css'
 
-function App() {
+const App = () => {
   return (
-    <div className="App">
-        hello world
+    <div id="App">
+      <div id="Main">
+        <Game>
+          
+        </Game>
+      </div>
     </div>
-  );
+  )
 }
 
-export default App;
+export default App
